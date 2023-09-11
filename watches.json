@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Apple Watch Series 6",
+      "price": 399.99
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy Watch 4",
+      "price": 249.99
+    },
+    {
+      "id": 3,
+      "name": "Fitbit Versa 3",
+      "price": 199.95
+    },
+    {
+      "id": 4,
+      "name": "Garmin Forerunner 945",
+      "price": 549.99
+    },
+    {
+      "id": 5,
+      "name": "Huawei Watch GT 2 Pro",
+      "price": 299.00
+    },
+    {
+      "id": 6,
+      "name": "Huawei Watch GT 4 Pro",
+      "price": 399.00
+    }
+  ]
+  
